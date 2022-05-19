@@ -1,4 +1,4 @@
-package gotest
+package myhello
 
 import "fmt"
 
