@@ -1,3 +1,3 @@
-dule github.com/IKarasev/gotest/mymath
+module github.com/IKarasev/gotest/mymath
 
 go 1.18
