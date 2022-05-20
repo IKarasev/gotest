@@ -1,3 +1,3 @@
-module github.com/IKarasev/gotest/myhello
+dule github.com/IKarasev/gotest/myhello
 
 go 1.18
