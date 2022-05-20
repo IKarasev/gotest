@@ -2,6 +2,6 @@ package myhello
 
 import "fmt"
 
-func SayHello(){
+func SayHello() {
 	fmt.Println("Hello from Ilya!")
 }
